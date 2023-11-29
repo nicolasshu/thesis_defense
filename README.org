@@ -19,5 +19,37 @@ Icons were created by the following on Flaticon
 - mpanicon
 - juicy_fish
 - Smashicons
+- SA Family
 - justicon
 - max.icons
+- Prashanth Rapolu 15
+- Pixel perfect
+
+* Outline
+|------------------------------------------+-----|
+| Title                                    |   1 |
+| Outline                                  |   2 |
+| Introduction                             |   4 |
+| Sensor Localization: Home Mapping        |  36 |
+| Sensor Localization: Maximum Coverage    |  55 |
+| System Infrastructure: Audiosockets      |  70 |
+| Speaker Identification                   |  92 |
+| Speaker ID: Motivation for FSL           |  94 |
+| Speaker ID: x-vector systems             | 105 |
+| Speaker ID: Few-Shot Learning            | 107 |
+| Speaker ID: Detection of New Classes     | 122 |
+| Speaker ID: Adaptive Few-Shot SpkrID     | 150 |
+| Speaker ID: Online FS Problem Setup      | 156 |
+| Speaker ID: Exp1 Baseline                | 172 |
+| Speaker ID: Exp2 41min Cov               | 176 |
+| Speaker ID: Exp3 5s Cov Adapt            | 187 |
+| Speaker ID: Exp4 Alg Stats               | 196 |
+| Speaker ID: Exp5 5s Cov Adapt + AlgStats | 212 |
+| Speaker ID: Exp6 5s Cov Adapt + AlgMean  | 216 |
+| Speaker ID: All results                  | 219 |
+| Real-Time Platform                       | 224 |
+| Ending                                   | 239 |
+| Final Slide                              | 242 |
+| Acknowledgements                         | 243 |
+| Supplemental Questions                   | 244 |
+|------------------------------------------+-----|
