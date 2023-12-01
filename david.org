@@ -1,0 +1,81 @@
+
+We wanted conversation groups
+if they are interacting with a care giver
+
+over the course of the day this person is interacting with multiple people
+
+
+another question, let's find other people
+and the autoenrollment would deal with very dynamic discussion groups.
+
+
+
+This proposal is for work in CEP,
+lay out a use case
+
+Due to circumstances, I'm not part of that anymore, so
+
+Convey  to the committee this makes a case b/c of the CEP
+
+Although not involved anymore, this leads to many other applications
+
+Original plan was to collect plan from EP6, but I changed advisors and no longer have access to that data.
+
+We were working iwth them to monitor impromptu conversation groups
+To do that, we developed this
+I'm no longer part of that group, therefore
+
+... using public databases.
+
+
+In my proposal, I proopsoed to o monitor participants ... collect data in the wild
+
+As you see, im not part of the project, so we don't have access to the data.
+This was a blessing in disguise because we found really
+and the framework is able to remain consistent.
+
+
+As a reminder, our proposal was to track conversation groups for
+this was very important to understand MCI
+b/c caregivers, healthcare providers.
+So we are doing the following steps:
+
+SENSOR LOCALIZATION
+
+So we made it far in the research,
+And b/c of changes unless you ask, this se
+We've done a slight pivot on the
+
+SPEAKER IDENTIFICATION
+
+Conclusion
+Future directions, etc.
+
+
+#========================================================
+
+I want to talk about dementia.
+
+We all have loved ones who are older than us. Many times they are our parents, our grandparents, our guardians, or even some really sweet neighbor who lives around the block. Unfortunately, as they age, their cognitive abilities deteriorate naturally, sometimes manifesting themselves as dementia, and dementia just sucks. I don't think it's necessary to talk about why it sucks. But it just absolutely unjustifiable and unquestionable suckage of a sucky suck. It's horrible. Because we love them.
+
+And it's not our fault. It's not their fault. It's just... life.
+
+But before you get to dementia, there are a few steps in between. A spectrum, if you will...
+
+When a normal individual ages, their cognitive abilities naturally decline at a mild decay. Someone with dementia does not simply jump from regular cognitive abilities to dementia immediately. There's a transitory period called *mild cognitive impairment* which is heavily studied, especially towards: "Can we prolong the stage of MCI as long as possible, or even *avoid* individuals falling under MCI?"
+
+Many of the studies indicate that negative social interactions may be risk factors for MCI and cognitive decline in old age.
+- Being excluded from activities that they would have enjoyed
+- Receiving unsolicited advice
+- Other people failing to provide help
+- Others having unsympathetic/insensitive behaviors, such as acting angry towards them
+
+Quality of interactions is very important for the cognitive decline of individuals in old age.
+
+Over the course of a day, an individual may interact with multiple people, such as their kids, their grandkids, different caregivers for different days of the week, healthcare providers... So it is rather difficult to keep track of every interaction of an individual.
+
+As we looked closely on interactions, we found smaller but very non-trivial problems, such as "how can we detect new speakers and identify them on the fly?"
+
+And although we were no longer part of the bigger project, we hoped to create a monitoring system that would help bridge the gap for analyzing interactions for individuals with MCI, and that could highly assist in many broader applications.
+
+This monitoring system would ...

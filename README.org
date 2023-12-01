@@ -53,3 +53,8 @@ Icons were created by the following on Flaticon
 | Acknowledgements                         | 243 |
 | Supplemental Questions                   | 244 |
 |------------------------------------------+-----|
+
+* Maybe cut
+smart-home intro
+t-SNE
+Using 41min min Covariance as ModelCov
