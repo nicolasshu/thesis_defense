@@ -24,6 +24,7 @@ Icons were created by the following on Flaticon
 - max.icons
 - Prashanth Rapolu 15
 - Pixel perfect
+- Eucalyp
 
 * Outline
 |------------------------------------------+-----|

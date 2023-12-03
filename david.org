@@ -67,6 +67,7 @@ When a normal individual ages, their cognitive abilities naturally decline at a 
 Many of the studies indicate that negative social interactions may be risk factors for MCI and cognitive decline in old age.
 - Being excluded from activities that they would have enjoyed
 - Receiving unsolicited advice
+- 
 - Other people failing to provide help
 - Others having unsympathetic/insensitive behaviors, such as acting angry towards them
 
@@ -78,4 +79,37 @@ As we looked closely on interactions, we found smaller but very non-trivial prob
 
 And although we were no longer part of the bigger project, we hoped to create a monitoring system that would help bridge the gap for analyzing interactions for individuals with MCI, and that could highly assist in many broader applications.
 
-This monitoring system would ...
+This monitoring system would i..
+
+
+
+Here's a movie dialog
+This famous scene from a movie
+
+A deaf person would entirely miss the irony that it was THIS who was speaking.
+
+
+Quality of interactions of MCI
+but we really want to know about size of the social circle
+
+In reality, people aren't very good at judging or reporting their interactions in their size
+
+This is a way to quantitatively evaluating the size of the social circle.
+Variety of spontaneous interactions
+
+
+
+
+Slide 107
+
+
+Too late to perform
+If we went through one of the datasets
+If we filter out anyone who appears once or twice.
+There are many ways to do this
+
+Talk about this in the future directions
+
+Held together very well
+
+52mins
